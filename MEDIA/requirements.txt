@@ -1,0 +1,4 @@
+Pillow
+aiobotocore
+aio_pika
+pika
